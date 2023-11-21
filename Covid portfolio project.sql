@@ -1,4 +1,4 @@
--- Total cases in the world vs total deaths in the world
+-- Total cases in the world vs total deaths in the world 
 -- Compute how likely you are to die if you contract covid based on world data
 select sum(new_cases) as TotalCases, sum(new_deaths) as TotalDeaths, sum(new_deaths) / sum(new_cases) * 100 as DeathPercentage
 from covidDeaths
