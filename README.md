@@ -6,7 +6,8 @@ This project is a comprehensive analysis of global COVID-19 data, showcasing dat
 
 ## Tableau Dashboard
 
-Explore the interactive Tableau dashboard created for this project by clicking [here](https://public.tableau.com/app/profile/harnish.patel8865/viz/PortfolioProject-Covid_17005436060580/Dashboard1).
+Explore the interactive Tableau dashboard below
+https://public.tableau.com/app/profile/patel.harnish/viz/Covid19Dashboard_17011194219960/Dashboard1
 
 ## Table of Contents
 
