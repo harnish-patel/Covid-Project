@@ -4,6 +4,10 @@
 
 This project is a comprehensive analysis of global COVID-19 data, showcasing data analyst skills through SQL queries and a Tableau dashboard. The primary objectives include exploring worldwide COVID-19 statistics, analyzing death counts across continents, evaluating the impact on individual countries based on population, tracking vaccination progress, and employing advanced SQL techniques such as Common Table Expressions (CTE) and Temp Tables.
 
+## Tableau Dashboard
+
+Explore the interactive Tableau dashboard created for this project by clicking [here](https://public.tableau.com/app/profile/harnish.patel8865/viz/PortfolioProject-Covid_17005436060580/Dashboard1).
+
 ## Table of Contents
 
 - [Queries](#queries)
@@ -15,7 +19,6 @@ This project is a comprehensive analysis of global COVID-19 data, showcasing dat
 - [Not Used in Tableau Project](#not-used-in-tableau-project)
   - [Rolling Percentage of Population Vaccinated (CTE Usage)](#rolling-percentage-of-population-vaccinated-cte-usage)
   - [Compare Rolling Population Percentage Vaccinated vs New Cases and Deaths (TEMP TABLE USAGE)](#compare-rolling-population-percentage-vaccinated-vs-new-cases-and-deaths-temp-table-usage)
-- [Tableau Dashboard](#tableau-dashboard)
 - [Conclusion](#conclusion)
 
 ## Queries
@@ -91,10 +94,6 @@ Although not incorporated into the Tableau project, this query calculates the ro
 ### Compare Rolling Population Percentage Vaccinated vs New Cases and Deaths (TEMP TABLE USAGE)
 
 This part of the project involves creating a temporary table (#VacvsDea) for comparing rolling population percentage vaccinated vs new cases and deaths, focusing on Canada.
-
-## Tableau Dashboard
-
-Explore the interactive Tableau dashboard created for this project by clicking [here](https://public.tableau.com/app/profile/harnish.patel8865/viz/PortfolioProject-Covid_17005436060580/Dashboard1).
 
 ## Conclusion
 
